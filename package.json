@@ -1,12 +1,12 @@
 {
-  "name": "new-chess-ai",
+  "name": "chess-ai",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "http-server ./"
   },
-  "author": "",
+  "author": "Kumar Shivam",
   "license": "ISC",
   "dependencies": {
     "http-server": "^0.9.0"
